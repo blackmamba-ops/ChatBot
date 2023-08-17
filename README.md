@@ -1,7 +1,5 @@
 # ChatBot
 
-🤖 Building Intelligent Conversations with Chatbots 🚀
-
 **Implementation of a Contextual Chatbot in PyTorch.**
 
 Simple chatbot implementation with PyTorch. 
